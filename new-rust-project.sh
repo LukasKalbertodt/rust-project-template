@@ -49,4 +49,5 @@ if [[ "$2" == "--bin" ]] ; then
     echo " - Remove 'Cargo.lock' from the .gitignore "
 fi
 echo " - add some useful information to README.md"
+echo " - enable this project on Travis-CI"
 echo ""
